@@ -2,7 +2,7 @@
 *An end-to-end Power BI project analyzing revenue, occupancy, RevPAR, ADR, and booking realisation across 25 hotels in 4 Indian cities.*
 
 <p align="center">
-<img src="Dashboard Images/Hotel Dashboard.png" width="100%" alt="Hotel Performance Dashboard">
+<img src="Dashboard Images/Main Dashboard.png" width="100%" alt="Hotel Performance Dashboard">
 </p>
 
 > 📄 **Project at a glance**
